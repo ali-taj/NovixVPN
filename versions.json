@@ -1,0 +1,40 @@
+{
+  "android": {
+    "version": "0.17",
+    "version_code": 17,
+    "tag": "android-v0.17",
+    "downloads": [
+      {
+        "file": "NovixVPN-0.17-arm64-v8a.apk",
+        "size": 41047553,
+        "sha256": "6640aaeb652d0d6b4dee604175c3631c0aafa9eb14aaa69808e22dc21aa7205d",
+        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.17/NovixVPN-0.17-arm64-v8a.apk"
+      },
+      {
+        "file": "NovixVPN-0.17-armeabi-v7a.apk",
+        "size": 41383433,
+        "sha256": "c55eae23425a1647ea6766c817d7f49cc0137df1402e2575b5153a901e713b3d",
+        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.17/NovixVPN-0.17-armeabi-v7a.apk"
+      },
+      {
+        "file": "NovixVPN-0.17.apk",
+        "size": 150190387,
+        "sha256": "1382cc7302815fb4b7a49d20907c750233a08f2d80a83849417beaa677bde6ad",
+        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.17/NovixVPN-0.17.apk"
+      }
+    ]
+  },
+  "windows": {
+    "version": "0.12",
+    "version_code": 12,
+    "tag": "windows-v0.12",
+    "downloads": [
+      {
+        "file": "NovixVPN-Setup-0.12.exe",
+        "size": 271326775,
+        "sha256": "1c171919b2ed1da652e94277fb42648825be699ae47b2686b2116933bbbf0c46",
+        "url": "https://github.com/ali-taj/NovixVPN/releases/download/windows-v0.12/NovixVPN-Setup-0.12.exe"
+      }
+    ]
+  }
+}
