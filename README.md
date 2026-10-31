@@ -6,10 +6,10 @@
 
 | سیستم‌عامل | نسخه | فایل نصب |
 |---|---|---|
-| اندروید — بیشتر گوشی‌های جدید | 0.17 | [دانلود ARM64](https://github.com/ali-taj/NovixVPN/releases/download/android-v0.17/NovixVPN-0.17-arm64-v8a.apk) |
-| اندروید — گوشی‌های ۳۲ بیتی | 0.17 | [دانلود ARM32](https://github.com/ali-taj/NovixVPN/releases/download/android-v0.17/NovixVPN-0.17-armeabi-v7a.apk) |
-| اندروید — نسخهٔ جامع | 0.17 | [دانلود Universal](https://github.com/ali-taj/NovixVPN/releases/download/android-v0.17/NovixVPN-0.17.apk) |
-| ویندوز ۱۰ و ۱۱ — ۶۴ بیتی | 0.12 | [دانلود نصب‌کننده](https://github.com/ali-taj/NovixVPN/releases/download/windows-v0.12/NovixVPN-Setup-0.12.exe) |
+| اندروید — بیشتر گوشی‌های جدید | 0.18 | [دانلود ARM64](https://github.com/ali-taj/NovixVPN/releases/download/android-v0.18/NovixVPN-0.18-arm64-v8a.apk) |
+| اندروید — گوشی‌های ۳۲ بیتی | 0.18 | [دانلود ARM32](https://github.com/ali-taj/NovixVPN/releases/download/android-v0.18/NovixVPN-0.18-armeabi-v7a.apk) |
+| اندروید — نسخهٔ جامع | 0.18 | [دانلود Universal](https://github.com/ali-taj/NovixVPN/releases/download/android-v0.18/NovixVPN-0.18.apk) |
+| ویندوز ۱۰ و ۱۱ — ۶۴ بیتی | 0.13 | [دانلود نصب‌کننده](https://github.com/ali-taj/NovixVPN/releases/download/windows-v0.13/NovixVPN-Setup-0.13.exe) |
 
 اگر معماری گوشی را نمی‌دانید، نسخهٔ جامع را دریافت کنید. نسخهٔ ARM64 برای بیشتر گوشی‌های جدید کم‌حجم‌تر است.
 
