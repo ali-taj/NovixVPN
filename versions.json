@@ -1,39 +1,41 @@
 {
   "android": {
-    "version": "0.18",
-    "version_code": 18,
-    "tag": "android-v0.18",
+    "version": "0.19",
+    "version_code": 19,
+    "tag": "android-v0.19",
+    "notes": "افزودن کانال تلگرام و حالت کانفیگ رایگان با بروزرسانی ساعتی و انتخاب خودکار مسیر",
     "downloads": [
       {
-        "file": "NovixVPN-0.18-arm64-v8a.apk",
-        "size": 41047553,
-        "sha256": "22da57f56ec88bf5decda7779943da594ae05194020bdbb5c62e1ce6563245a1",
-        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.18/NovixVPN-0.18-arm64-v8a.apk"
+        "file": "NovixVPN-0.19-arm64-v8a.apk",
+        "size": 41047552,
+        "sha256": "1bfb872e656803e9cd00c569552f862fe01b7038c5a3ac50e4876139cf8e56eb",
+        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.19/NovixVPN-0.19-arm64-v8a.apk"
       },
       {
-        "file": "NovixVPN-0.18-armeabi-v7a.apk",
-        "size": 41383433,
-        "sha256": "b0bcc5086de17c3ef3fe06c5e42af0e0ca55e1371169241bb70277babff91ad9",
-        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.18/NovixVPN-0.18-armeabi-v7a.apk"
+        "file": "NovixVPN-0.19-armeabi-v7a.apk",
+        "size": 41387528,
+        "sha256": "bb783a0e9a66d2fb64ee55598a1a7d6d06592fea8bc1d80e4c6ec3a68c5c5349",
+        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.19/NovixVPN-0.19-armeabi-v7a.apk"
       },
       {
-        "file": "NovixVPN-0.18.apk",
-        "size": 150190387,
-        "sha256": "2b85bd6908223362568714dcc610f420456236a612f0653cb0547b379a7329c5",
-        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.18/NovixVPN-0.18.apk"
+        "file": "NovixVPN-0.19.apk",
+        "size": 150194482,
+        "sha256": "d2b228bfc7f58cf8f91ef041864b1dc928ca35ba1c640371f6fce7a31091cfa2",
+        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.19/NovixVPN-0.19.apk"
       }
     ]
   },
   "windows": {
-    "version": "0.13",
-    "version_code": 13,
-    "tag": "windows-v0.13",
+    "version": "0.14",
+    "version_code": 14,
+    "tag": "windows-v0.14",
+    "notes": "افزودن کانال تلگرام و حالت کانفیگ رایگان با بروزرسانی ساعتی و انتخاب خودکار مسیر",
     "downloads": [
       {
-        "file": "NovixVPN-Setup-0.13.exe",
-        "size": 271334967,
-        "sha256": "d023a60197b00bf0afda026a573b1ee3506bae5f3617fb6830314184afc2178b",
-        "url": "https://github.com/ali-taj/NovixVPN/releases/download/windows-v0.13/NovixVPN-Setup-0.13.exe"
+        "file": "NovixVPN-Setup-0.14.exe",
+        "size": 271339063,
+        "sha256": "be3383d39d14c6fdcda54369f33332f5ee2c8979df445863e01953cc9907233d",
+        "url": "https://github.com/ali-taj/NovixVPN/releases/download/windows-v0.14/NovixVPN-Setup-0.14.exe"
       }
     ]
   }
