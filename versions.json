@@ -1,27 +1,27 @@
 {
   "android": {
-    "version": "0.19",
-    "version_code": 19,
-    "tag": "android-v0.19",
-    "notes": "افزودن کانال تلگرام و حالت کانفیگ رایگان با بروزرسانی ساعتی و انتخاب خودکار مسیر",
+    "version": "0.20",
+    "version_code": 20,
+    "tag": "android-v0.20",
+    "notes": "بازطراحی صفحهٔ ورود و داشبورد، صفحات داخلی هماهنگ، نمایش سرعت لحظه‌ای و اصلاح آیکن اندروید",
     "downloads": [
       {
-        "file": "NovixVPN-0.19-arm64-v8a.apk",
-        "size": 41047552,
-        "sha256": "1bfb872e656803e9cd00c569552f862fe01b7038c5a3ac50e4876139cf8e56eb",
-        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.19/NovixVPN-0.19-arm64-v8a.apk"
+        "file": "NovixVPN-0.20-arm64-v8a.apk",
+        "size": 41129941,
+        "sha256": "c605ba67e51010bc37e65b981ab045ddf9da19072dfe588360c62efec1fa5143",
+        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.20/NovixVPN-0.20-arm64-v8a.apk"
       },
       {
-        "file": "NovixVPN-0.19-armeabi-v7a.apk",
-        "size": 41387528,
-        "sha256": "bb783a0e9a66d2fb64ee55598a1a7d6d06592fea8bc1d80e4c6ec3a68c5c5349",
-        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.19/NovixVPN-0.19-armeabi-v7a.apk"
+        "file": "NovixVPN-0.20-armeabi-v7a.apk",
+        "size": 41469917,
+        "sha256": "35d6a25215cb35ff3e28ef67fc9ad46982bb8545dc0a52474ec5ae08921c0dfb",
+        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.20/NovixVPN-0.20-armeabi-v7a.apk"
       },
       {
-        "file": "NovixVPN-0.19.apk",
-        "size": 150194482,
-        "sha256": "d2b228bfc7f58cf8f91ef041864b1dc928ca35ba1c640371f6fce7a31091cfa2",
-        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.19/NovixVPN-0.19.apk"
+        "file": "NovixVPN-0.20.apk",
+        "size": 150276871,
+        "sha256": "d8292c14ffc2082f768e7e87b8e5e4d67e6e6ad4d57af7ec2dbaf4bfe3020af8",
+        "url": "https://github.com/ali-taj/NovixVPN/releases/download/android-v0.20/NovixVPN-0.20.apk"
       }
     ]
   },
